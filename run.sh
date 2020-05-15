@@ -1,0 +1,1 @@
+deno run --allow-net --allow-read -c tsconfig.json server/main.ts
